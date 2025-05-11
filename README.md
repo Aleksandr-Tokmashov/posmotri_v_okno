@@ -15,5 +15,7 @@
 - Реализовал позиционирование прелоадеров
 ## Установка и запуск
 - Клонируйте репозиторий: \
-`git clone git@github.com:Aleksandr-Tokmashov/posmotri_v_okno.git`
+```
+git clone git@github.com:Aleksandr-Tokmashov/posmotri_v_okno.git
+```
 - Откройте файл index.html в браузере.
